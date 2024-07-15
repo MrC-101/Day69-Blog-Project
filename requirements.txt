@@ -10,3 +10,4 @@ flask_wtf==1.2.1
 SQLAlchemy==2.0.31
 Werkzeug==3.0.3
 WTForms==3.1.2
+gunicorn==22.0.0
